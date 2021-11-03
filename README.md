@@ -17,9 +17,13 @@ For creating embeddings I have used Universal Sentence Encoder, for more checkou
 Python version >= 3.6
 
 ## Installation
-`pip install -r requirements.txt`
+```
+pip install -r requirements.txt
+```
 
 I have used the **faiss cpu**, for using gpu install<br>
 
-`pip install faiss-gpu`
+```
+pip install faiss-gpu
+```
 
